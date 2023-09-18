@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RelationShip_Many_Many", "RelationShip_Many_Many.csproj", "{23861CA5-D193-4ED2-9678-A1A29547B2BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23861CA5-D193-4ED2-9678-A1A29547B2BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23861CA5-D193-4ED2-9678-A1A29547B2BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23861CA5-D193-4ED2-9678-A1A29547B2BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23861CA5-D193-4ED2-9678-A1A29547B2BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8C15542-6B17-4150-9C9F-729F6052DFF7}
+	EndGlobalSection
+EndGlobal
